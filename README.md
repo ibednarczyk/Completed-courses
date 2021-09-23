@@ -6,3 +6,4 @@ Listing of courses I completed (both certified and free online courses)
 - [Businnes Readble Automated Tests wth SpecFlow](https://www.pluralsight.com/courses/specflow-2-0-business-readable-automated-tests) - Nov. 2020
 - Learning Python LinkedIn Learning ([link to certificate](https://github.com/ibednarczyk/Completed-courses/blob/master/Certificate_Learning%20Python.pdf)) - Dec. 2020
 - Budowanie REST API w .NET (StacjaIT) / Building a REST API with .NET (StacjaIT) - Jun. 2021
+- [.NET Standard: Getting Started](https://www.pluralsight.com/courses/dotnet-standard-getting-started) - Sep. 2021
